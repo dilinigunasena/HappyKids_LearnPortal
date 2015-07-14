@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+/* CSS Document */
+body{background-image:url(images/kidsworld.jpg); background-repeat:no-repeat;}
+h1 {color:#F00 ; font-family:"Comic Sans MS", cursive; }
+h2 {color:#F06 ; font-family:"Comic Sans MS", cursive; } 
+h3{color:#006; font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif ;}
+form{ display: table;}
+p{ display: table-row;}
+label{ display: table-cell;}
+input { display: table-cell; width:200px; height: 30px }
+.A {border-color:#00C;font-size:24px; float:left; background-color: #FFCEFF; margin-bottom: 5px;}
+.B{ font:"Palatino Linotype", "Book Antiqua", Palatino, serif ; font-size:36px ; color:#F33; text-align:center ;}
+.C {border-color:#00C;font-size:24px; float:left; background-color:#0F9; margin-top: 5px ;   }
+.button{ font:"Times New Roman", Times, serif; background-color:#6CF ; font-size:18px;}
+.blink{ width:120 ; height:120 ; background-color:#F9F ; margin-bottom:15px;}
+.navigate{padding-bottom:2px;background-color: olive;} 
+
